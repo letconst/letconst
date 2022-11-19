@@ -23,11 +23,11 @@
 
 <p align="center">
   <a href="https://github.com/oTKum">
-    <img align="center" height="180px"
+    <img align="center" height="170px"
          src="https://github-readme-stats.vercel.app/api?username=oTKum&custom_title=Sub-account's%20GitHub%20Stats&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&card_width=550" />
   </a>
   <a href="https://github.com/oTKum">
-    <img align="center" height="180px"
+    <img align="center" height="170px"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=oTKum&layout=compact&card_width=230&theme=vision-friendly-dark&card_width=450" />
   </a>
 </p>
