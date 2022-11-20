@@ -9,7 +9,7 @@
     <img align="center" width="48%"
          src="https://github-readme-stats.vercel.app/api?username=letconst&count_private=true&show_icons=true&theme=vision-friendly-dark&card_width=550&border_radius=7" />
     <img align="center" width="51%"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=letconst&layout=compact&hide=mathematica&theme=vision-friendly-dark&card_width=450" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=letconst&layout=compact&hide=mathematica&theme=vision-friendly-dark&card_width=450&langs_count=6" />
   </a>
 </p>
 <p align="center">
