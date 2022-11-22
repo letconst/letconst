@@ -1,3 +1,15 @@
+## ℹ About me
+
+I'm a student aiming to become a game engineer.
+
+### 🌱 My Skills
+
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,idea,vscode,unity,nodejs,cs,js,ts,md,regex&perline=5" /></a>
+
+### 📔 Studying
+
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,php,mysql,deno" /></a>
+
 ## 📊 Stats
 
 ### Me
