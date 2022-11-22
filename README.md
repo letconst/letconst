@@ -27,7 +27,7 @@ I'm a student aiming to become a game engineer.
 <p align="center">
   <a href="#">
     <img align="center"
-         src="https://github-readme-stats.vercel.app/api/wakatime?username=letconst&custom_title=Weekly%20codings%20activity&layout=compact&theme=vision-friendly-dark" />
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=letconst&custom_title=Weekly%20coding%20activity&layout=compact&theme=vision-friendly-dark" />
   </a>
 </p>
 
