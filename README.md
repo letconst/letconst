@@ -2,6 +2,8 @@
 
 I'm a student aiming to become a game engineer.
 
+My portfolio: https://letconst.github.io/
+
 ### 🌱 My Skills
 
 <a href="#"><img src="https://skillicons.dev/icons?i=linux,idea,vscode,unity,nodejs,cs,js,ts,md,regex&perline=5" /></a>
