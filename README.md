@@ -25,6 +25,6 @@ My portfolio: https://letconst.github.io/
 <p align="center">
   <a href="#">
     <img align="center"
-         src="https://github-readme-stats.vercel.app/api/wakatime?username=letconst&custom_title=Weekly%20coding%20activity&layout=compact&theme=vision-friendly-dark" />
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=letconst&custom_title=Weekly%20coding%20activity&layout=compact&theme=vision-friendly-dark&range=last_7_days" />
   </a>
 </p>
